@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m William Hankey
 
-<!--
-**WilliamHankey/WilliamHankey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **product-focused frontend engineer and product engineer** with 4+ years of experience building and shipping production web applications across **SaaS, FinTech, and internal platforms**.
 
-Here are some ideas to get you started:
+I specialize in combining **strong UX/UI thinking** with **clean, scalable engineering** to turn complex requirements into intuitive, high-performing products. I care deeply about usability, performance, and long-term maintainability—not just shipping features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m currently working on
+
+- Building **enterprise-grade personal projects** to showcase senior-level engineering practices  
+- Developing full-stack solutions using **Angular, .NET, and modern frontend tooling**
+- Exploring **AI-assisted development workflows** to improve developer productivity
+- Growing my **personal brand** around developer growth, product thinking, and UX-driven engineering
+- Working on **real-world SaaS-style architectures** using Docker, CI/CD, testing, and documentation best practices
+
+---
+
+## 🛠️ Tools & technologies I use
+
+**Frontend**
+- Angular, React, TypeScript
+- HTML, CSS, SCSS, Tailwind
+- Storybook, Figma
+
+**Backend & Full-Stack**
+- C# / .NET
+- REST APIs
+- JWT authentication
+
+**DevOps & Tooling**
+- Docker, Docker Compose
+- Git & GitHub
+- Jenkins (CI/CD)
+- Swagger / OpenAPI
+- Unit & integration testing
+
+**Product & Workflow**
+- UX/UI design principles
+- ClickUp, Asana
+- Agile & product-driven development
+
+---
+
+## 📫 How to reach me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/williamhankey/
+- 🌐 Portfolio / Projects: *(coming soon / hosted on Vercel)*
+- ✉️ Open to collaboration, freelance work, and full-time product engineering roles
+
+---
+
+> *I believe great products are built at the intersection of strong engineering, thoughtful UX, and clear product intent.*
