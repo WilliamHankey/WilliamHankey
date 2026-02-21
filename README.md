@@ -1,4 +1,4 @@
-# 👋 Hi, I’m William Hankey
+# Hi, I’m William Hankey
 
 I’m a **product-focused frontend engineer and product engineer** with 4+ years of experience building and shipping production web applications across **SaaS, FinTech, and internal platforms**.
 
@@ -14,7 +14,6 @@ I specialize in combining **strong UX/UI thinking** with **clean, scalable engin
 - Growing my **personal brand** around developer growth, product thinking, and UX-driven engineering
 - Working on **real-world SaaS-style architectures** using Docker, CI/CD, testing, and documentation best practices
 
----
 
 ## 🛠️ Tools & technologies I use
 
@@ -40,7 +39,6 @@ I specialize in combining **strong UX/UI thinking** with **clean, scalable engin
 - ClickUp, Asana
 - Agile & product-driven development
 
----
 
 ## 📫 How to reach me
 
@@ -48,6 +46,5 @@ I specialize in combining **strong UX/UI thinking** with **clean, scalable engin
 - [🌐 Portfolio / Projects](https://william.meiflume.com/)
 - ✉️ Open to collaboration, freelance work, and full-time product engineering roles
 
----
 
 > *I believe great products are built at the intersection of strong engineering, thoughtful UX, and clear product intent.*
