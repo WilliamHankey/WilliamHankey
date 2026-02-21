@@ -4,7 +4,6 @@ I’m a **product-focused frontend engineer and product engineer** with 4+ years
 
 I specialize in combining **strong UX/UI thinking** with **clean, scalable engineering** to turn complex requirements into intuitive, high-performing products. I care deeply about usability, performance, and long-term maintainability—not just shipping features.
 
----
 
 ## 🚀 What I’m currently working on
 
