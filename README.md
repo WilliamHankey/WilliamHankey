@@ -44,8 +44,8 @@ I specialize in combining **strong UX/UI thinking** with **clean, scalable engin
 
 ## 📫 How to reach me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/williamhankey/
-- 🌐 Portfolio / Projects: *(coming soon / hosted on Vercel)*
+- [💼 LinkedIn](https://www.linkedin.com/in/williamhankey/)
+- [🌐 Portfolio / Projects](https://william.meiflume.com/)
 - ✉️ Open to collaboration, freelance work, and full-time product engineering roles
 
 ---
